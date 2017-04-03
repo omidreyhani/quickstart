@@ -1,1 +1,1 @@
-# a clone of Angular QuickStart Source
+# A clone of Angular QuickStart Source
